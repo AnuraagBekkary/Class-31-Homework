@@ -1,1 +1,2 @@
-# Class-31-Homework
+# zombie-crush-3
+project solution of c31
